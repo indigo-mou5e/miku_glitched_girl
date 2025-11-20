@@ -1,0 +1,9 @@
+ghost/master/satori_savebackup.txt,nonar,noupdate
+ghost/master/satori_savedata.txt,nonar,noupdate
+ghost/master/.vscode/,nonar,noupdate
+ghost/master/var/,nonar,noupdate
+tiny_measure/,noupdate
+developer_options.txt,nonar,noupdate
+thumbnail.png,nonar,noupdate
+README.md,nonar,noupdate
+.gitignore,nonar,noupdate

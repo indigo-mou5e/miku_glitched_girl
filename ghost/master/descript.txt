@@ -1,0 +1,14 @@
+charset,UTF-8
+
+craftman,Suminezu
+craftmanw,墨鼠
+craftmanurl,https://prayfortiny.net/
+
+name,小さなきみと歌ううた
+type,ghost
+
+sakura.name,玲奈
+kero.name,スミレ
+
+icon,reina.ico
+shiori,satori.dll

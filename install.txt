@@ -1,0 +1,4 @@
+charset,UTF-8
+type,ghost
+name,未紅はグリッチガール
+directory,miku_glitch_girl
