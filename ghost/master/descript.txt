@@ -4,11 +4,11 @@ craftman,Suminezu
 craftmanw,墨鼠
 craftmanurl,https://prayfortiny.net/
 
-name,小さなきみと歌ううた
+name,未紅はグリッチガール
 type,ghost
 
-sakura.name,玲奈
-kero.name,スミレ
+sakura.name,未紅
+kero.name,ハルカ
 
 icon,reina.ico
 shiori,satori.dll

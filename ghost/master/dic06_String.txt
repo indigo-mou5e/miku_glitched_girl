@@ -22,7 +22,7 @@
 ネットワーク更新(&U)
 
 ＠vanishbutton.caption
-おわかれ(&F)
+返品・交換する(&F)
 
 ＠readmebutton.caption
 Read me(&R)
@@ -33,7 +33,7 @@ Read me(&R)
 
 
 ＠homeurl
-https://prayfortiny.net/ukagaka/for_the_tiny/
+https://prayfortiny.net/ukagaka/miku_glitched_girl/
 
 ＠username
 （ユーザ名） 
@@ -58,21 +58,10 @@ https://prayfortiny.net/ukagaka/for_the_tiny/
 mice's nest
 https://prayfortiny.net/
 
-（１１６）ホームページですね。（ウェイト３）
-（１０）イラストがあったり、3DCGがあったり、他のゴーストさんがいたりしますよ。
-
-＊sakura.recommendsites
-メッセージフォーム
-https://forms.gle/MEdJmpmpoUiZRH6V8
-
-（１１６）このゴーストに関するメッセージフォームです。（ウェイト３）
-（１０）匿名で送れるので、感想や質問、不具合報告などお気軽にどうぞ。
 
 ＊sakura.recommendsites
 連絡先（X）
 https://x.com/prayfortiny
-
-（１１６）匿名でない連絡はこちらをどうぞ。
 
 
 
@@ -99,9 +88,6 @@ http://ghosttown.mikage.jp/
 ＊sakura.portalsites
 伺かチャット
 http://ukgkchat.saloon.jp/index.php?FrontPage
-伺かの話題のチャット。
-わからないことがあったら質問できるぞ。
-：ブラウザだけでも見られます。
 
 ＊sakura.portalsites
 -
@@ -109,7 +95,6 @@ http://ukgkchat.saloon.jp/index.php?FrontPage
 ＊sakura.portalsites
 SSP BUGTRAQ 
 https://ssp.shillest.net/ 
-推奨ベースウェア。
 
 
 CROW 
@@ -125,7 +110,6 @@ http://usada.sakura.vg/
 ＊sakura.portalsites
 里々φ/整備班カスタム
 https://ms.shillest.net/
-：現時点で更新されている里々です。
 
 
 ＊sakura.portalsites
@@ -134,14 +118,11 @@ https://ms.shillest.net/
 ＊sakura.portalsites
 里々Wiki
 https://soliton.sub.jp/satori/
-：里々に関するＴｉｐがまとまっているような気がします。
-：うむ。
 
 ＊sakura.portalsites
 postic
 http://navy.nm.land.to/post/
-：私たちにすでに適用されているサプリメントの元配布元です。
-：ややこしいことをしたいなら一読の価値ありだ。
+
 
 ＊sakura.portalsites
 -
