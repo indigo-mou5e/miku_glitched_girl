@@ -22,7 +22,7 @@
 ネットワーク更新(&U)
 
 ＠vanishbutton.caption
-返品・交換する(&F)
+未紅を返品する(&F)
 
 ＠readmebutton.caption
 Read me(&R)

@@ -1,101 +1,144 @@
-sakura.cursor
-{
-	mouseup0,Head,system:hand
-	mousedown0,Head,system:finger
-	mouseup1,Hair,system:hand
-	mousedown1,Hair,system:finger
+charset,UTF-8
 
+descript
+{
+version,1
 }
 
-surface0
+surface0,2,4-9
 {
-
-0interval,never
-0pattern0,100,8,replace,220,0
-0pattern1,6,8,replace,0,0
-0pattern2,-1,8,replace,0,0
-
-1interval,never
-1pattern0,100,8,replace,220,0
-1pattern1,6,8,replace,0,0
-1pattern2,-1,20,replace,0,0
-
-2interval,rarely
-2pattern0,0,0,alternativestart,[0.1]
-}
-
-
-
-surface1
-{
-
-}
-
-
-surface2
-{
-
 element0,overlay,surface00.png,0,0
+}
+
+surface1,3
+{
+element0,overlay,surface01.png,0,0
+}
+
+surface0-9
+{
+animation0.interval,never
+animation0.pattern0,replace,6,8,0,0
+animation0.pattern1,replace,100,8,220,0
+animation0.pattern2,replace,-1,8,0,0
+
+animation1.interval,never
+animation1.pattern0,replace,6,8,0,0
+animation1.pattern1,replace,100,8,220,0
+animation1.pattern2,replace,-1,20,0,0
+
+animation2.interval,always
+animation2.pattern0,move,0,70,0,-10
+animation2.pattern1,move,0,70,0,-11
+animation2.pattern2,move,0,80,0,-12
+animation2.pattern3,move,0,80,0,-13
+animation2.pattern4,move,0,90,0,-14
+animation2.pattern5,move,0,100,0,-15
+animation2.pattern6,move,0,110,0,-16
+animation2.pattern7,move,0,120,0,-17
+animation2.pattern8,move,0,140,0,-18
+animation2.pattern9,move,0,200,0,-19
+animation2.pattern10,move,0,300,0,-20
+animation2.pattern11,move,0,200,0,-19
+animation2.pattern12,move,0,140,0,-18
+animation2.pattern13,move,0,120,0,-17
+animation2.pattern14,move,0,110,0,-16
+animation2.pattern15,move,0,100,0,-15
+animation2.pattern16,move,0,90,0,-14
+animation2.pattern17,move,0,80,0,-13
+animation2.pattern18,move,0,80,0,-12
+animation2.pattern19,move,0,70,0,-11
+animation2.pattern20,move,0,70,0,-10
+animation2.pattern21,move,0,70,0,-9
+animation2.pattern22,move,0,80,0,-8
+animation2.pattern23,move,0,80,0,-7
+animation2.pattern24,move,0,90,0,-6
+animation2.pattern25,move,0,100,0,-5
+animation2.pattern26,move,0,110,0,-4
+animation2.pattern27,move,0,120,0,-3
+animation2.pattern28,move,0,140,0,-2
+animation2.pattern29,move,0,200,0,-1
+animation2.pattern30,move,0,300,0,0
+animation2.pattern31,move,0,200,0,-1
+animation2.pattern32,move,0,140,0,-2
+animation2.pattern33,move,0,120,0,-3
+animation2.pattern34,move,0,110,0,-4
+animation2.pattern35,move,0,100,0,-5
+animation2.pattern36,move,0,90,0,-6
+animation2.pattern37,move,0,80,0,-7
+animation2.pattern38,move,0,80,0,-8
+animation2.pattern39,move,0,70,0,-9
+animation2.option,shared-index
+}
+
+surface.append0
+{
+animation3.interval,rarely
+animation3.pattern0,alternativestart,(0.1)
+}
+
+
+surface.append1
+{
+
+}
+
+
+surface.append2
+{
 element1,overlay,surface02.png,220,0
 }
 
 
-surface3
+surface.append3
 {
-
-element0,overlay,surface01.png,0,0
 element1,overlay,surface03.png,220,0
 }
 
 
-surface4
+surface.append4
 {
-
-element0,overlay,surface00.png,0,0
 element1,overlay,surface04.png,220,0
 }
 
 
-surface5
+surface.append5
 {
-
-element0,overlay,surface00.png,0,0
 element1,overlay,surface05.png,220,0
 }
 
 
-surface6
+surface.append6
 {
-
-element0,overlay,surface00.png,0,0
 element1,overlay,surface06.png,220,0
 }
 
-surface7
+surface.append7
 {
-
-element0,overlay,surface00.png,0,0
 element1,overlay,surface07.png,220,0
 }
 
 
-surface8
+surface.append8
 {
-
-element0,overlay,surface00.png,0,0
 element1,overlay,surface08.png,220,0
 }
 
 
-surface9
+surface.append9
 {
 
-element0,overlay,surface00.png,0,0
 element1,overlay,surface09.png,220,0
 }
 
 surface10
 {
+
+}
+
+surface11
+{
+
 }
 
 
