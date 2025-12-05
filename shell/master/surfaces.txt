@@ -18,14 +18,14 @@ element0,overlay,surface01.png,0,0
 surface0-9
 {
 animation0.interval,never
-animation0.pattern0,replace,6,8,0,0
-animation0.pattern1,replace,100,8,220,0
-animation0.pattern2,replace,-1,8,0,0
+animation0.pattern0,replace,6,80,0,0
+animation0.pattern1,replace,100,80,220,0
+animation0.pattern2,replace,-1,80,0,0
 
 animation1.interval,never
-animation1.pattern0,replace,6,8,0,0
-animation1.pattern1,replace,100,8,220,0
-animation1.pattern2,replace,-1,20,0,0
+animation1.pattern0,replace,6,80,0,0
+animation1.pattern1,replace,100,80,220,0
+animation1.pattern2,replace,-1,200,0,0
 
 animation2.interval,always
 animation2.pattern0,move,0,70,0,-10
