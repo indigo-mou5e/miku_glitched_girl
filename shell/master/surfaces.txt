@@ -7,16 +7,23 @@ version,1
 
 surface0,2,4-9
 {
-element0,overlay,surface00.png,0,0
+element0,base,surface00.png,0,0
 }
 
 surface1,3
 {
-element0,overlay,surface01.png,0,0
+element0,base,surface01.png,0,0
+}
+
+surface99
+{
+element0,base,surface99.png,0,0
 }
 
 surface0-9
 {
+collisionex0,Head,region,collider.png,255,0,0
+
 animation0.interval,never
 animation0.pattern0,replace,6,80,0,0
 animation0.pattern1,replace,100,80,220,0
@@ -137,6 +144,16 @@ surface10
 }
 
 surface11
+{
+
+}
+
+surface12
+{
+
+}
+
+surface19
 {
 
 }
