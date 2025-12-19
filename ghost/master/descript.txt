@@ -10,5 +10,4 @@ type,ghost
 sakura.name,未紅
 kero.name,ハルカ
 
-icon,reina.ico
 shiori,satori.dll

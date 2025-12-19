@@ -81,7 +81,32 @@ animation2.option,shared-index
 surface.append0
 {
 animation3.interval,rarely
-animation3.pattern0,alternativestart,(0.1)
+animation3.pattern0,alternativestart,(0,1)
+
+animation4.interval,random,9
+animation4.pattern0,alternativestart,(5,6,7,8)
+
+animation5.interval,never
+animation5.pattern0,overlay,1004,200,0,0
+animation5.pattern1,overlay,1003,70,0,0
+animation5.pattern2,overlay,-1,100,0,0
+
+
+animation6.interval,never
+animation6.pattern0,overlay,1002,200,0,0
+animation6.pattern1,overlay,1001,70,0,0
+animation6.pattern2,overlay,-1,100,0,0
+
+animation7.interval,never
+animation7.pattern0,overlay,1004,200,0,0
+animation7.pattern1,overlay,1005,70,0,0
+animation7.pattern2,overlay,-1,140,0,0
+
+animation8.interval,never
+animation8.pattern0,overlay,1002,200,0,0
+animation8.pattern1,overlay,1005,70,0,0
+animation8.pattern2,overlay,1004,250,0,0
+animation8.pattern3,overlay,-1,40,0,0
 }
 
 
@@ -94,6 +119,12 @@ surface.append1
 surface.append2
 {
 element1,overlay,surface02.png,220,0
+
+animation4.interval,never
+animation4.pattern0,overlay,1200,0,0,0
+animation4.pattern1,overlay,1201,80,0,0
+animation4.pattern2,overlay,1202,80,0,0
+animation4.pattern3,overlay,-1,80,0,0
 }
 
 
